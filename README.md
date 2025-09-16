@@ -18,10 +18,18 @@ Bridgect – Connect and Schedule Platform Developed the login page for Bridgect
 ## Screenshots
 
 **Login Page:**  
-![Login Page] 
+![Login Page] (<img width="1904" height="865" alt="Screenshot 2025-09-16 113900" src="https://github.com/user-attachments/assets/b2360b6e-26d9-4391-a6e7-f618b5f3b290" />
+[Login Page  2] 
+<img width="1907" height="904" alt="Screenshot 2025-09-16 114533" src="https://github.com/user-attachments/assets/8fe5eb8d-47d7-4eb5-844a-f87e533975fc" />
+
 
 **Dashboard / Chat Preview:**  
-![Dashboard]()
+![Dashboard](<img width="1908" height="884" alt="Screenshot 2025-09-16 114547" src="https://github.com/user-attachments/assets/d9bf389e-a85e-4c29-9991-4699497500e6" />)
+
+page 2
+<img width="1905" height="885" alt="Screenshot 2025-09-16 114606" src="https://github.com/user-attachments/assets/d4770db4-be7e-4645-ae06-61214c5490a4" />
+
+
 
 ---
 
