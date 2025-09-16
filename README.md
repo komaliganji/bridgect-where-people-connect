@@ -40,7 +40,7 @@ page 2
 ---
 
 ## Live Demo
-Check out the live website [here](bridgect.netlify.app)
+Check out the live website [bridgect.netlify.app]
 
 ---
 
