@@ -1,0 +1,63 @@
+.back {
+    background-image: -webkit-linear-gradient(#F5E9FA,#E9FAFA);
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+  }
+  .logo{
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+  }
+  
+  .div-center {
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
+    padding: 1em 2em;
+    border-bottom: 2px solid #ccc;
+    display: table;
+    border-radius: 10%;
+  }
+  h3{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+  
+  div.content {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .loginBtn{
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background: -webkit-linear-gradient(#7D2FCF,#78CEDF);
+  }
+  .signUpBtn{
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-left: 92px;
+    padding-right: 92px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background: -webkit-linear-gradient(#7D2FCF,#78CEDF);
+  }

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Tilt+Prism&family=Ubuntu:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans+Narrow&family=Poppins:wght@200&family=Roboto:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Tilt+Prism&family=Ubuntu:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Ubuntu:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Tilt+Prism&family=Ubuntu:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+SA+Beginner&family=Kanit:wght@300&family=PT+Sans+Narrow&family=Poppins:wght@200&family=Roboto:ital,wght@0,100;0,300;0,400;1,300;1,400&family=Tilt+Prism&family=Ubuntu:wght@300;400&display=swap');
+
+body{
+    background-image:  -webkit-linear-gradient(#7D2FCF,#78CEDF); 
+}.login-container{
+    max-width: 300px;
+    height: 450px;
+    box-shadow: 5px 10px 10px;
+    background-color: white;
+    padding: 10px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 500px;
+    margin-right: 500pxs;
+    border-radius: 10%;
+    
+}
+.login{
+    display: flex;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    align-items: center;
+    border-radius: 50%;
+}
+.heading{
+    margin-top: 35px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+.usernameStyle{
+    font-weight: 600;
+    font-size: larger;
+    padding-left: 15px;
+}
+.submit{
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    background: -webkit-linear-gradient(#7D2FCF,#78CEDF);
+    font-size: x-large;
+}
+@media (max-width: 950px) {
+    body{
+        background-image:  -webkit-linear-gradient(#7D2FCF,#78CEDF); 
+        display: flex;
+    }
+    .login-container, .login, .logo, .heading, .tagline, .usernameStyle, .submit {
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    body{
+        background-image:  -webkit-linear-gradient(#7D2FCF,#78CEDF); 
+        display: flex;
+    }
+    .login-container, .login, .logo, .heading, .tagline, .usernameStyle, .submit {
+        width: 100;
+    }
+}    
